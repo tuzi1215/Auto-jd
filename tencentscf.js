@@ -8,8 +8,8 @@ const MemorySize=process.env.TENCENT_MemorySize?(Number(process.env.TENCENT_Memo
 const ScfClient = tencentcloud.scf.v20180416.Client;
 const clientConfig = {
   credential: {
-    secretId: process.env.TENCENT_SECRET_ID,
-    secretKey: process.env.TENCENT_SECRET_KEY
+    secretId: process.env.AKIDSjpiMluoSr01pOhneFbibEckdGdldGdm,
+    secretKey: process.env.wd5HExTklcEahYAWfdMq43oJbeS0JMAj
   },
   region: process.env.TENCENT_REGION, // 区域参考，https://cloud.tencent.com/document/product/583/17299
   profile: {
