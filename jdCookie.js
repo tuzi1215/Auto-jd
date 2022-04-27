@@ -2,7 +2,7 @@
 此文件为Node.js专用。其他用户请忽略
  */
 //此处填写京东账号cookie。
-let CookieJDs = [
+let CookieJDs = [pt_key=AAJiaMMjADBJ04oGPoQb55Mram-ToGduGDB-r4yx2AJFyNzz0dQYk4vvCmhS3vvmacvn9yBxdt0;pt_pin=%E7%8C%8E%E6%89%8B%E6%B5%81%E6%B0%93%E5%85%94;
   '',//账号一ck,例:pt_key=XXX;pt_pin=XXX;
   '',//账号二ck,例:pt_key=XXX;pt_pin=XXX;如有更多,依次类推
 ]
